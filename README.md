@@ -13,4 +13,6 @@ pnpm add typescript ts-node @types/node --save-dev
 npx tsc --init --target es2020
 
 pnpm add @feathersjs/feathers --save
+
+npx ts-node app.ts
 ```
