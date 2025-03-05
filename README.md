@@ -20,4 +20,5 @@ pnpm add @feathersjs/socketio @feathersjs/koa --save
 # Update app.ts file, then
 npx ts-node app.ts
 # Visit http://localhost:3030/messages to check
+# Setup index.html file then http://localhost:3030 to check
 ```
